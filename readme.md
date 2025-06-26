@@ -12,7 +12,7 @@
 
 ## 示例
 
-![image](example.jpg)
+![image](example.png)
 
 ## 安装依赖
 
